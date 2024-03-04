@@ -5,3 +5,7 @@
 - 404 page (.htaccess provided)
 - explore page
 - about page
+
+# v.0.69.32
+- new UI
+- optimized for mobile view
