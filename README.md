@@ -6,6 +6,6 @@
 - explore page
 - about page
 
-# v.0.69.32 (03-04-2024)
+# v.0.69.32 Beta release 2 (03-04-2024)
 - new UI
 - optimized for mobile view
