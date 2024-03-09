@@ -10,6 +10,6 @@
 - new UI
 - optimized for mobile view
 
-#v0.78.92 Beta Release (03-10-2024)
+# v0.78.92 Beta Release (03-10-2024)
 - code editor is usable
 - new domain
