@@ -58,7 +58,7 @@ body{
 }
 
 .messagebar .bar-wrapper{
-  background-color: #494b59;
+  background-color: #FFFAFA;
   border-radius: 5px;
   width: 60vw;
   padding: 10px;
@@ -74,7 +74,7 @@ body{
   outline: none;
   font-size: 14px;
   background: none;
-  color: #ccc;
+  color: #000;
 }
 
 .bar-wrapper input::placeholder{
